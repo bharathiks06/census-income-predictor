@@ -1,6 +1,6 @@
 # census-income-predictor
 
-# Adult Income Prediction
+# Census Income Prediction
 
 A machine learning project that predicts whether an individual's annual income exceeds \$50K using demographic and employment information from the Census Income dataset.
 
